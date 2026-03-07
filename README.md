@@ -4,7 +4,7 @@ Projects I worked on while attending the Data Analysis TripleTen Bootcamp.
 
 | Project number | Title | Description |
 | :-----------: | ----------- |----------- |
-| 1 | Business Analysis| The project task was to analyze user data and find possible causes for the company’s low CR and retention rate. |
-| 2 | [Spreadsheet Analysis](https://github.com/zarina-perez/TripleTen_projects/tree/main/02-EDA_project) | The project task was to prepare a report that gives insight into the shopping habits of  customers |
-| 3 | Profit Center Analysis | The project task was to study the sales funnel and analyze the results. |
-| 4 | Return Rate Analysis | The project task was to study return rates for action on bottlenecks. |
+| 1 | Business Analysis| Conducted end-to-end business analysis using structured datasets to uncover operational inefficiencies. |
+| 2 | [Spreadsheet Analysis](https://github.com/zarina-perez/TripleTen_projects/tree/main/02-EDA_project) | Analyzed multi-source datasets to generate business insights and executive-level reporting |
+| 3 | Profit Center Analysis | Evaluated profit performance across business units to support strategic financial decision-making. |
+| 4 | Return Rate Analysis | Analyzed product and customer return behavior to identify operational risks and improve retention strategy. |
