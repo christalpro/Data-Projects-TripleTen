@@ -4,9 +4,6 @@ Tableau Public Link: https://public.tableau.com/views/ProfitCenterAnalysis/Dashb
 
 Authors: Christal Bowers-Ingram
 
-Date of Creation: January 1, 2026
-Date of Last Modification: January 5, 2026
-
 ------------------------------------------
 Variables and Definitions
 ------------------------------------------
@@ -43,6 +40,7 @@ Bottom 5 Products: Filtered data of the bottom 5 products that had the lowest pr
 
 9. Dashboard 1
    Description: All used sheets of date to answer the questions of what are the best products and worse products the company should focus on or stop selling. (Profit Center Analysis, Product Return Rate, Customer Return Rate, Avg Profit Per State, Top 5 Products, Bottom 5 Products)
+
 
 
 
