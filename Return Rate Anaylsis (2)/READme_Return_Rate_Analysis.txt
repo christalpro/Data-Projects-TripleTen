@@ -8,7 +8,7 @@ Authors: Christal Bowers-Ingram
 Variables and Definitions
 ------------------------------------------
 
-Total Sales by Total Returns: The comparison of each sub category with sales vs returns. The sub categories a color coded with each circle on the scatterplot. Hovering over the circles will give you more information on sub category, total sales, and total returns
+Total Sales by Total Returns: The comparison of each sub category with sales vs returns. The sub categories are color coded with each circle on the scatterplot. Hovering over the circles will give you more information on sub category, total sales, and total returns
 
 Return Rate Per Category: The return rate of each category(technology, office supplies, furniture) shown in vertical bar visuals
 
@@ -29,6 +29,7 @@ AVG Return Rate + Total Sales Per state gives more insight on sales made vs retu
 Total Sales
 
 Total Returns
+
 
 
 
