@@ -1,7 +1,16 @@
 # Return Rate Analysis
 
 ## Overview
-* This project goal was to prepare an analysis for the CEO of the Superstore to help them understand what is causing customers to return their orders and how to reduce the volume of returned orders.
+
+The project intent was to prepare a creative analysis for the CEO of the Superstore to help them understand what caused customers to return their orders and how to reduce the volume of returned orders. 
+
+### Results
+
+* Analyzed transaction records using Tableau calculated fields and LOD expressions to measure return rates by category, state, and customer segment
+* Built an interactive executive dashboard with scatter plots, KPI cards, and geospatial maps to visualize high-risk return patterns
+* Identified repeat-return customers with return rates higher than average and flagged key loss drivers
+Presented data-driven insights to recommend policy changes and targeted interventions for high-risk regions
+
 
 ### Insights & Findings
 
@@ -11,13 +20,12 @@
 4. Found sales are high but profit was lower in comparison.
 
 ### Functionality
-* You can either download Tableau software or use the link below to see the public version of the dashboards for interaction.
+> You can either download Tableau software or use the link below to see the public version of the visual presentation.
 
 [Click here to see public Version --> ](https://public.tableau.com/shared/9Z52842TB?:display_count=n&:origin=viz_share_link)
 
-### Technologies
-* The data was provided by TripleTen from Kaggle. The data used was Superstore.xls
-* The 
-
+### Tools Used
+The data was provided by TripleTen from Kaggle. The dataset used was Superstore.xls
+ 
 - Excel 
 - Tableau
