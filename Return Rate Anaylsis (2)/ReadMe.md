@@ -1,41 +1,23 @@
-# MOVIE APP USING TMDB
+# Return Rate Analysis
 
 ## Overview
-* This is an updated and better version of my movie app, where I only had 10 personal movies, This app fetches data from the TMDB API to show information about movies. This App also uses another Api that allows the user to send voice command to the app and the app will do it. 
+* This project goal was to prepare an analysis for the CEO of the Superstore to help them understand what is causing customers to return their orders and how to reduce the volume of returned orders.
 
-### Question/Commands you can ask the app and the app will give you an answer or action.
+### Insights & Findings
 
-1. What does this app do?
-2. Give the command [go to] "pick a genre/category"
-3. Give the command "Change screen Mode" 
-4. More command and functionalities to come... 
-
-### Prerequisites
-* You need to create an account and get an API key in the MovieDatabase Api [Follow the link -> ](https://developers.themoviedb.org/3)
+1. Data shows an increase in order returns throughout the calender year
+2. Top 3 states identified with high returns were Utah, California, and Oregon
+3. Located top customers that were high returners that needed to be addressed
+4. Found sales are high but profit was lower in comparison.
 
 ### Functionality
+* You can either download Tableau software or use the link below to see the public version of the dashboards for interaction.
 
-* It allows the user to click on a specific Genre and the app fetches movies according to that Genre. 
-* Once the user clicks on a specific movie, the app will display information about the movie, from reviews to the cast. And according to the specific movie clicked the User will be able to see recommended movies that are similar to the clicked one. 
-* You can also ask the app 
-
-### Images
-![Image](src/Img/darkmode.png)
-![Image](src/Img/lightmode.png )
-![Image](src/Img/infolight.png )
-![Image](src/Img/infodark.png )
+[Click here to see public Version --> ](https://public.tableau.com/shared/9Z52842TB?:display_count=n&:origin=viz_share_link)
 
 ### Technologies
-* To build this app latest technologies were used, using React hooks and Redux for state management. As for Css this app uses Material UI for some parts, and the most using css grid/flex. 
+* The data was provided by TripleTen from Kaggle. The data used was Superstore.xls
+* The 
 
-- React JS
-- React Router
-- Redux, Redux-Thunk
-- MaterialUI
-- SCSS modules
-
-
-### Installing 
-* Clone the Repo and run npm install and npm run to run on localhost
-
-[Click here to see live Version --> ](https://newmovies.netlify.app)
+- Excel 
+- Tableau
