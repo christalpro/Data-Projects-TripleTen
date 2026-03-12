@@ -20,10 +20,14 @@ Delivered actionable insights that highlighted low-margin segments
 
 ### Insights & Findings
 
-1. 
+1. Highest profit centers were State of California and New York with technology products. Lowest profit centers being Ohio and Texas with furniture products. 
+2. Advertising would be useful for the Washington in March, Indiana in October, and Vermont in November. These 3 states had high peaks in profit around those areas. 
+3. Able to locate thr top 10 customers with returns along with thr top 10 products that were returned most.  
+
 
 ### Functionality
 > You can either download Tableau software or use the link below to see the public version of the visual presentation.
+> In addition you either look at raw data with excel or google sheets. 
 
 [Click here to see public Version --> ](https://public.tableau.com/views/ProfitCenterAnalysis/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 
